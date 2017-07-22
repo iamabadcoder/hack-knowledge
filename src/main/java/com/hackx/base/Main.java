@@ -6,6 +6,13 @@ package com.hackx.base;
  */
 public class Main {
 
-
+    public static void main(String[] args) {
+        int i = 0;
+        i++;
+        ++i;
+        i =5;
+        i++;
+        --i
+    }
 
 }
