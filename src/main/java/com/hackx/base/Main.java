@@ -12,7 +12,7 @@ public class Main {
         ++i;
         i =5;
         i++;
-        --i
+        --i;
     }
 
 }
